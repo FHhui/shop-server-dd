@@ -1,2 +1,2 @@
 # shop-server-dd
-shop-server-neu傻逼作业
+shop-server-neu作业
